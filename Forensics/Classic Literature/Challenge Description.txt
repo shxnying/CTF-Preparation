@@ -1,0 +1,4 @@
+Challenge Title: Classic Literature
+Problem category: Forensics
+Difficulty: It Doesn’t Get Easier Than This
+Problem description: It seems someone has hidden the flag in this classical transcription of Romeo and Juliet, can you extract it?

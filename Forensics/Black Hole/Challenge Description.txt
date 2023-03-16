@@ -1,0 +1,4 @@
+Challenge Title: Black Hole
+Problem category: Forensics
+Difficulty: Easy
+Problem description: There are many ways to embed flags into an image, can you find this one?
