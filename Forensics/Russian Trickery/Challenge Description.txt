@@ -1,0 +1,4 @@
+Challenge Title: Russian Trickery
+Problem category: Forensics, Steganography
+Difficulty: Moderate
+Problem description: The Russians sure know how to hide things! It seems the flag is hidden somewhere in this image, can you get to the bottom of this?
