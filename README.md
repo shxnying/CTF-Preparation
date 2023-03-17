@@ -1,7 +1,7 @@
 # CZ4067-CTF-Preparation
 CZ4067 trial and tutorial to prep for CTF competiton
 
-Welcome to my CTF challenge solutions repository! This repository contains my approaches and solutions to various CTF challenges. These challenges are tutorials/trial challenges designed to prepare for actual CTF runs.
+Welcome to my CTF challenge solutions repository! This repository contains my approaches and solutions to various CTF challenges. These challenges are tutorials/trial challenges designed to prepare for actual CTF competition.
 
 As a beginner in the field of cybersecurity, my approaches may not be the most optimized, but I am documenting my thought processes and the things I have learned through these challenges
 
