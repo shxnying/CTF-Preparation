@@ -9,7 +9,7 @@ Getting Started
 To access the challenges, clone this repository onto your local machine using the following command:
 
 ```properties
-git clonehttps://github.com/shxnying/CTF-Preparation.git
+git clone https://github.com/shxnying/CTF-Preparation.git
  ``` 
 Make sure you have the required software and tools installed on your machine, such as a text editor, programming languages, and relevant libraries.
 
